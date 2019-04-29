@@ -5,6 +5,6 @@ This repository contains the code which identify the Genre of the movie looking 
 This demonstrate the Multi-Label Image classifictaion feature step by step in Colab notebook.
 
 You can download the structure dataset from the below link,
-https://drive.google.com/file/d/1dNa_lBUh4CNoBnKdf9ddoruWJgABY1br/view 
+https://www.cs.ccu.edu.tw/~wtchu/projects/MoviePoster/index.html
 
 Refernce taken from the article by Pulkit Sharma from Analytics vidya
